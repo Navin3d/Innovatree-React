@@ -1,0 +1,16 @@
+.navbar{
+    background-color: rgb(19, 195, 19);
+}
+.navbar-brand{
+    font-weight: 700;
+}
+.nav-link{
+    font-size: larger;
+    font-weight: 700;
+}
+.navbar-nav{
+    margin-right: 1%;
+}
+.nav-link{
+    margin-left: 10px;
+}

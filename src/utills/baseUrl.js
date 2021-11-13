@@ -1,0 +1,1 @@
+export const baseUrl = "http://host.docker.internal:8082";
