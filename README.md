@@ -1,3 +1,8 @@
+# Innovatree
+This is the frontend using react js for the api using spring boot for my second year mini project.
+
+Backend link to [repo](https://github.com/Navin3d/Innovatree)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
